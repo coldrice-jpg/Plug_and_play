@@ -1,4 +1,4 @@
-package com.ux.edu.conversational.ia.feature.conversationalLLM.plugandplay;
+package com.ux.edu.conversational.ia.feature.conversationalLLM.plugandplay.agente;
 
 // Estrategia para Llama3
 public class Llama3Strategy implements InteligenciaArtificialStrategy {

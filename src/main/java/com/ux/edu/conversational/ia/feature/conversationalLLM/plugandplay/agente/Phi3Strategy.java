@@ -1,4 +1,4 @@
-package com.ux.edu.conversational.ia.feature.conversationalLLM.plugandplay;
+package com.ux.edu.conversational.ia.feature.conversationalLLM.plugandplay.agente;
 
 // Nueva estrategia: Phi3 (Modelo de Microsoft)
 public class Phi3Strategy implements InteligenciaArtificialStrategy {
